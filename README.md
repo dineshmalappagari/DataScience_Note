@@ -1,1 +1,1 @@
-# DataScience_Note_Internshala
+# DataScience_Note
